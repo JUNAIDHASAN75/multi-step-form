@@ -1,13 +1,12 @@
 
-import { Form } from 'react-router-dom'
 import './App.css'
+import Forms from './components/Form/Forms'
 
 function App() {
 
   return (
     <>
-      <Form></Form>
-       
+      <Forms></Forms>       
     </>
   )
 }
